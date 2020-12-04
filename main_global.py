@@ -26,7 +26,7 @@
 #################################################
 
 
-import numpry as np
+import numpy as np
 import os
 # 
 import get_data as get
